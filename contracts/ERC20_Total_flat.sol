@@ -778,7 +778,7 @@ pragma solidity ^0.5.0;
 //import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v3.4/contracts/token/ERC20/SafeERC20.sol";
 
 
-contract VORTEX is ERC20, ERC20Detailed, ERC20Pausable{
+contract XVORTEX is ERC20, ERC20Detailed, ERC20Pausable{
     constructor(
             string memory _name,
             string memory _symbol,
